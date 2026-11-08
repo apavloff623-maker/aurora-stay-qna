@@ -1,4 +1,3 @@
-
 # Use a minimal base image with Python 3.13.15-slim installed
 FROM python:3.13.15-slim
 
